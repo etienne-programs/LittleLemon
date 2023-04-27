@@ -40,7 +40,8 @@ INSTALLED_APPS = [
     'restaurant',
     'rest_framework',
     'djoser',
-    'rest_framework.authtoken'
+    'rest_framework.authtoken',
+    'tests',
 ]
 
 MIDDLEWARE = [
